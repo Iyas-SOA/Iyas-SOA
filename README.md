@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iyas
-- Join My Telegram :
+- ⚡ Join My Telegram : https://t.me/schoolofairdrop
 
 <a href="https://stardev.io/developers/SchoolOfAirdrop"><img alt="Check out SchoolOfAirdrop's profile on stardev.io" src="https://stardev.io/developers/SchoolOfAirdrop/badge/languages/global.svg" /></a>
 
